@@ -1,4 +1,4 @@
-import { Component } from './base.js';
+import Component from './base.js';
 import { autobind } from '../decorators/autobind.js';
 import { projectState } from '../state/project.js';
 import { Project, ProjectStatus } from '../models/project.js';
